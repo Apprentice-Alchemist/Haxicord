@@ -1,7 +1,5 @@
 {
     "haxe.configurations": [
-        [
-            "build.hxml"
-        ]
+        ["build.hxml"]
     ]
 }
