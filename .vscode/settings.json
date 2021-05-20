@@ -1,5 +1,5 @@
 {
-    "haxe.configurations": [
+    "haxe.dispalyConfigurations": [
         ["build.hxml"]
     ]
 }
